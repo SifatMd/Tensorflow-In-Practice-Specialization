@@ -10,3 +10,8 @@ Course List:
  - Convolutional Neural Networks in TensorFlow
  - Natural Language Processing in TensorFlow
  - Sequences, Time Series and Prediction
+
+---
+
+![Tensorflow Specialization Course Certificate](Tensorflow Specialization Certificate.png)
+
