@@ -13,5 +13,5 @@ Course List:
 
 ---
 
-![Tensorflow Specialization Course Certificate](Tensorflow Specialization Certificate.png)
+![Tensorflow Specialization Course Certificate](Certificate.png)
 
